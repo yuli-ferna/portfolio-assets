@@ -180,5 +180,10 @@
     "11": "Nov",
     "12": "Dic"
   },
-  "seeHere": "Ver aquí!"
+  "seeHere": "Ver aquí!",
+  "underConstruction": {
+    "title": "EN CONSTRUCCIÓN",
+    "project": "Projectes & Demos de yuli-ferna",
+    "loading": "Cargando"    
+  }
 }
