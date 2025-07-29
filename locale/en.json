@@ -169,10 +169,15 @@
   },
   "projects": {
     "title": "Projects & Demos",
+    "by": "by yuli-ferna",
+    "hi": "Hi I’m yuli-ferna, a software developer",
+    "contactMe": "Contact me! :)",
+    "changeLang": "Wanna change language?",
+    "loading": "Loading",
     "description": "Here you'll find a selection of the projects and demos I've worked on. Each one showcases my skills and how I apply my knowledge to create functional and innovative solutions.",
     "list": [
       {
-        "projectTitle": "My Portfolio",
+        "title": "My Portfolio",
         "description":
           "A website to show all my work, skills, and a simple way to contact me.",
         "image": "portfolio/xlabs.webp",
@@ -182,7 +187,7 @@
         "link": "https://yuli-ferna.vercel.app/"
       },
       {
-        "projectTitle": "My Portfolio V1",
+        "title": "My Portfolio V1",
         "description":
           "A website to show all my work, skills, and a simple way to contact me.",
         "image": "portfolio/xlabs.webp",
@@ -190,7 +195,7 @@
         "link": "https://yuli-ferna.github.io/portfolio-v1"
       },
       {
-        "projectTitle": "ThreeJs Light Demo",
+        "title": "ThreeJs Light Demo",
         "description":
           "A website to show all my work, skills, and a simple way to contact me.",
           "image": "portfolio/xlabs.webp",
@@ -198,7 +203,7 @@
           "link": "https://yuli-ferna.github.io/portfolio-v1"
       },
       {
-        "projectTitle": "ThreeJs Light Demo",
+        "title": "ThreeJs Light Demo",
         "description":
           "A website to show all my work, skills, and a simple way to contact me.",
           "image": "portfolio/xlabs.webp",
@@ -206,7 +211,7 @@
           "link": "https://yuli-ferna.github.io/portfolio-v1"
       },
       {
-        "projectTitle": "ThreeJs Light Demo",
+        "title": "ThreeJs Light Demo",
         "description":
           "A website to show all my work, skills, and a simple way to contact me.",
           "image": "portfolio/xlabs.webp",
