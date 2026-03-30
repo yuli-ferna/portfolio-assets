@@ -11,15 +11,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Vercel deploy hook
-        if: ${{ secrets.VERCEL_DEPLOY_HOOK != '' }}
+      - name: Trigger deploy hook
         run: |
-          curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}" \
+          curl -s -X POST "${{ secrets.VERCCEL_DEPLOY_HOOK }}" \
             -H "Content-Type: application/json" \
-            --fail-with-body
-        
-      - name: Trigger Netlify deploy hook
-        if: ${{ secrets.NETLIFY_DEPLOY_HOOK != null }}
-        run: |
-          curl -s -X POST "${{ secrets.NETLIFY_DEPLOY_HOOK }}" \
             --fail-with-body
