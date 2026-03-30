@@ -13,6 +13,6 @@ jobs:
     steps:
       - name: Trigger deploy hook
         run: |
-          curl -s -X POST "${{ secrets.VERCCEL_DEPLOY_HOOK }}" \
+          curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}" \
             -H "Content-Type: application/json" \
             --fail-with-body
