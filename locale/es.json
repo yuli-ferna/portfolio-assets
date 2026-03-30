@@ -102,6 +102,28 @@
     "description": "Cada etapa de mi trayectoria profesional ha sido una oportunidad para aprender, colaborar y aportar valor. En esta sección comparto los proyectos y roles que han marcado mi camino en el desarrollo de software.",
     "positions": [
       {
+        "jobTitle": "Full-stack Developer",
+        "description": "Desarrollando una plataforma SaaS multi-tenant de aviación privada con Next.js 16 y Supabase — cubre ventas, charter y gestión de flota con panel admin completo, sistema de inventario de aeronaves y arquitectura white-label configurable por cliente.",
+        "image": "https://res.cloudinary.com/dc8fnv6xk/image/upload/f_auto,q_auto/videoframe_5005_zz6egs",
+        "tags": [
+          "NextJS",
+          "React",
+          "HTML",
+          "CSS",
+          "V0",
+          "Typescript",
+          "Framer Motion",
+          "Supabase",
+          "Tailwind",
+          "SQL",
+          "PostgreSQL"
+        ],
+        "companyName": "Spark IQ",
+        "ubication": "Remoto",
+        "dateStart": "Ene 2026",
+        "dateEnd": "Presente"
+      },
+      {
         "jobTitle": "Software Developer",
         "description": "Desarrollé el sitio web de la compañía utilizando Next.js. Además, desarrollé y mantuve el Wormhole Portal Token Bridge, un proyecto de puente entre cadenas basado en blockchain que incluye el widget Wormhole Connect, utilizando principalmente Vite y React.",
         "image": "portfolio/xlabs.webp",

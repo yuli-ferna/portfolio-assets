@@ -101,6 +101,28 @@
     "description": "Every stage of my professional journey has been an opportunity to learn, collaborate, and create value. In this section, I share the projects and roles that have shaped my path in software development.",
     "positions": [
       {
+        "jobTitle": "Full-stack Developer",
+        "description": "Developing a comprehensive aviation management solution covering sales, charter operations, and fleet management. This platform features a full admin dashboard, a real-time aircraft inventory system, and a robust white-label architecture configurable per tenant.",
+        "image": "https://res.cloudinary.com/dc8fnv6xk/image/upload/f_auto,q_auto/videoframe_5005_zz6egs",
+        "tags": [
+          "NextJS",
+          "React",
+          "HTML",
+          "CSS",
+          "V0",
+          "Typescript",
+          "Framer Motion",
+          "Supabase",
+          "Tailwind",
+          "SQL",
+          "PostgreSQL"
+        ],
+        "companyName": "xLabs",
+        "ubication": "Remote",
+        "dateStart": "Jan 2026",
+        "dateEnd": "Current"
+      },
+      {
         "jobTitle": "Software Developer",
         "description": "Developed the company website using Next.js. Additionally, I developed and maintained the Wormhole Portal Token Bridge, a blockchain-based cross-chain bridge project that includes the Wormhole Connect widget, primarily using Vite and React.",
         "image": "portfolio/xlabs.webp",
