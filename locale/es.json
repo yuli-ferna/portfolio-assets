@@ -1,4 +1,5 @@
 {
+  "home.description": "Soy una desarrolladora de software apasionada, con {years} años de experiencia, enfocada en crear soluciones innovadoras y eficientes. Mi especialidad es el desarrollo web, y siempre estoy dispuesta a aprender nuevas tecnologías y perfeccionar mis habilidades.",
   "home": {
     "hello": "Hola, soy Yuliana Fernández",
     "titles": [
@@ -6,7 +7,7 @@
       "Frontend",
       "UI/UX Enthusiastic"
     ],
-    "description": "Soy una desarrolladora de software apasionada por crear soluciones innovadoras y eficientes. Mi especialidad es el desarrollo web, y siempre estoy dispuesta a aprender nuevas tecnologías y mejorar mis habilidades.",
+    "description": "Soy una desarrolladora de software apasionada, con {years} años de experiencia, enfocada en crear soluciones innovadoras y eficientes. Mi especialidad es el desarrollo web, y siempre estoy dispuesta a aprender nuevas tecnologías y perfeccionar mis habilidades.",
     "cvLink": "https://drive.google.com/file/d/1yGJ6dtxZoq8EVMc8knAGbRMry4jchf6V/view?usp=sharing"
   },
   "navbar": {
@@ -19,12 +20,16 @@
       "section": "skills"
     },
     "experience": {
-      "name": "Proyectos",
+      "name": "Experiencia",
       "section": "experience"
     },
     "education": {
-      "name": "Proyectos",
+      "name": "Educación",
       "section": "education"
+    },
+    "projects": {
+      "name": "Proyectos",
+      "section": "projects"
     },
     "contact": {
       "name": "Contacto",
@@ -215,7 +220,7 @@
   "education": {
     "title": "Educación & Certificados",
     "description": "Soy titulada en Ciencias de la Computación y he reforzado mi educación con un aprendizaje constante en desarrollo web. Considero que la formación es una herramienta fundamental para adaptarse, crecer y evolucionar profesionalmente.",
-    "seeCertificate": "See Certificate",
+    "seeCertificate": "Ver Certificado",
     "titles": [
       {
         "title": "Bachelor of Science in Computer Science",
@@ -271,6 +276,11 @@
       }
     ]
   },
+  "projects": {
+    "title": "Proyectos & Demos",
+    "description": "Una selección de proyectos donde aplico mis conocimientos para crear soluciones funcionales e innovadoras.",
+    "cta": "Ver todos mis proyectos"
+  },
   "contact": {
     "title": "Contáctame!",
     "form": "Formulario de Contacto",
@@ -298,73 +308,12 @@
       }
     }
   },
-  "projects": {
-    "title": "Proyectos y Demos",
-    "project": "Proyectos",
-    "by": "de yuli-ferna",
-    "hi": "Hola, soy yuli-ferna, desarrolladora de software",
-    "portfolio": "https://yuli-ferna.vercel.app/",
-    "contactMe": "¡Contáctame! :)",
-    "changeLang": "¿Quieres cambiar de idioma?",
-    "loading": "Cargando",
-    "description": "Aquí encontrarás una selección de los proyectos y demostraciones en los que he trabajado. Cada uno muestra mis habilidades y cómo aplico mis conocimientos para crear soluciones funcionales e innovadoras.",
-    "list": [
-      {
-        "title": "Mi Portafolio",
-        "description": "Un sitio web para mostrar todo mi trabajo, habilidades y una forma sencilla de contactarme.",
-        "image": "projects/portfolio.webp",
-        "tags": [
-          "Astro",
-          "React",
-          "Javascript",
-          "HTML",
-          "CSS",
-          "TailwindCSS",
-          "Framer Motion",
-          "Diseño Web"
-        ],
-        "github": "https://github.com/yuli-ferna/portfolio",
-        "link": "https://yuli-ferna.vercel.app/"
-      },
-      {
-        "title": "Mi Portafolio V1",
-        "description": "Un sitio web para mostrar todo mi trabajo, habilidades y una forma sencilla de contactarme.",
-        "image": "projects/portfolio-v1.webp",
-        "tags": [
-          "Vite",
-          "React",
-          "Javascript",
-          "HTML",
-          "CSS",
-          "Framer Motion"
-        ],
-        "link": "https://yuli-ferna.github.io/portfolio-v1"
-      },
-      {
-        "title": "Demo de Iluminación con ThreeJs",
-        "description": "",
-        "image": "projects/light.webp",
-        "tags": [
-          "Three.js",
-          "Javascript",
-          "HTML",
-          "CSS"
-        ],
-        "link": "https://yuli-ferna.github.io/lights"
-      },
-      {
-        "title": "Demo de Modelos con ThreeJs",
-        "description": "Un sitio web para mostrar todo mi trabajo, habilidades y una forma sencilla de contactarme.",
-        "image": "projects/load-model.webp",
-        "tags": [
-          "Three.js",
-          "Javascript",
-          "HTML",
-          "CSS"
-        ],
-        "link": "https://yuli-ferna.github.io/load-model"
-      }
-    ]
+  "footer": {
+    "builtWith": "Construido con",
+    "styledWith": "Estilizado con",
+    "iconsFrom": "Íconos de",
+    "licensedUnder": "con licencia",
+    "allRightsReserved": "Todos los derechos reservados"
   },
   "month": {
     "1": "Ene",
@@ -379,13 +328,6 @@
     "10": "Oct",
     "11": "Nov",
     "12": "Dic"
-  },
-  "footer": {
-    "builtWith": "Construido con",
-    "styledWith": "Estilizado con",
-    "iconsFrom": "Íconos de",
-    "licensedUnder": "licenciado bajo",
-    "allRightsReserved": "Todos los derechos reservados"
   },
   "seeHere": "Ver aquí!",
   "underConstruction": {
