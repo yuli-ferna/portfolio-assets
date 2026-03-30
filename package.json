@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-assets",
+  "version": "1.0.0",
+  "description": "Data repository for yuli-ferna/portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuli-ferna/portfolio-assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuli-ferna/portfolio-assets/issues"
+  },
+  "homepage": "https://github.com/yuli-ferna/portfolio-assets#readme"
+}
